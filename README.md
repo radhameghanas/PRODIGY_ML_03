@@ -1,4 +1,5 @@
 Cat vs Dog Image Classification
+
 This project uses Support Vector Machines (SVM) to classify images of cats and dogs. The dataset consists of images organized into two folders: Cat and Dog. The images are preprocessed, flattened, and used to train an SVM model with a polynomial kernel.
 
 Table of Contents
@@ -8,11 +9,9 @@ Dataset
 Model Training
 Model Testing
 Results
-License
-Installation
 
 Clone the repository:
-git clone https://github.com/your-username/your-repo.git
+git clone (https://github.com/radhameghanas/PRODIGY_ML_03)
 cd your-repo
 
 Create and activate a virtual environment (optional but recommended):
